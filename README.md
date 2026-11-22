@@ -1,7 +1,7 @@
 <a href="https://ramazankus.dev/en">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Ramazan Kus — Software engineering apprentice, building business applications from data model to production." src="assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.svg">
+    <img alt="Ramazan Kus — Software engineering apprentice, building business applications from data model to production." src="assets/banner-light-v2.svg" width="100%">
   </picture>
 </a>
 
@@ -21,7 +21,7 @@
 - 🧪 Before that, QA intern at the same company: test plans and end-to-end tests with Cypress.
 - 🎓 BUT in Computer Science at IUT Lyon 1 (2022 – 2025).
 - 🌍 French and Turkish (native), English (C1, TOEIC certified).
-- 📂 Each project, told through the problem it solves: [ramazankus.dev/en/projects](https://ramazankus.dev/en/projects).
+- 📂 A selection of my projects, told through the problem each one solves: [ramazankus.dev/en/projects](https://ramazankus.dev/en/projects).
 
 ## Stack
 
@@ -34,15 +34,6 @@ Every skill below is backed by a project or a job on [ramazankus.dev/en/skills](
 | **Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=12" height="40" alt="PostgreSQL, MySQL"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" height="28" alt="MariaDB"> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,gitlab,docker,cypress&perline=12" height="40" alt="Git, GitLab, Docker, Cypress"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="28" alt="Jira"> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" height="28" alt="Claude Code"> |
 
-<details>
-<summary><b>Levels</b></summary>
-<br>
-
-| Advanced | Proficient | Basics |
-| --- | --- | --- |
-| Angular, Java, Spring, HTML, Git | TypeScript, JavaScript, Astro, CSS, PostgreSQL, GitLab, Cypress, Jira, Claude Code | Node.js, Express, Prisma, PHP, MariaDB, MySQL, Docker |
-
-</details>
 
 ## GitHub stats
 
