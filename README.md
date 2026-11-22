@@ -21,15 +21,7 @@
 - 🧪 Before that, QA intern at the same company: test plans and end-to-end tests with Cypress.
 - 🎓 BUT in Computer Science at IUT Lyon 1 (2022 – 2025).
 - 🌍 French and Turkish (native), English (C1, TOEIC certified).
-
-## Featured work
-
-| | Project | The key move |
-| :-: | --- | --- |
-| **!!** | [**This portfolio**](https://ramazankus.dev/en/projects/portfolio) · [code](https://github.com/Rameray1/portfolioV2) <br><sub>Astro · TypeScript · Claude Code · Spec Kit — static, FR / EN</sub> | Let Claude write code only after a specification and a plan I have reviewed. |
-| **!** | [**One-click shipment preparation**](https://ramazankus.dev/en/projects/shipment-preparation) <br><sub>Java · Spring · Angular · PostgreSQL — apprenticeship, food-industry client</sub> | Wrap the pallet move, the stock movement and the shipment update in a single transaction. |
-| **!?** | [**Meetz**](https://ramazankus.dev/en/projects/meetz) <br><sub>Angular · Express · Prisma · MariaDB — team of 4, IMT Mines Alès</sub> | Geocode addresses in the browser with Nominatim and cache the result, without changing the data model. |
-| **!** | [**Sportify**](https://ramazankus.dev/en/projects/sportify) · [code](https://github.com/Rameray1/Sportify) <br><sub>PHP · MySQL · JavaScript — team of 4, no framework</sub> | Validate every shop purchase on the server, with 3 checks, before deducting the points. |
+- 📂 Each project, told through the problem it solves: [ramazankus.dev/en/projects](https://ramazankus.dev/en/projects).
 
 ## Stack
 
