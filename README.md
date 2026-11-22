@@ -39,19 +39,19 @@ Every skill below is backed by a project or a job on [ramazankus.dev/en/skills](
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rameray1&count_private=true&show_icons=true&hide_border=true&bg_color=161513&title_color=ff5a6a&text_color=f1efea&icon_color=ff5a6a&rank_icon=percentile">
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rameray1&count_private=true&show_icons=true&hide_border=true&bg_color=faf8f3&title_color=c8102e&text_color=141414&icon_color=c8102e&rank_icon=percentile">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ramazankus&count_private=true&show_icons=true&hide_border=true&bg_color=161513&title_color=ff5a6a&text_color=f1efea&icon_color=ff5a6a&rank_icon=percentile">
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ramazankus&count_private=true&show_icons=true&hide_border=true&bg_color=faf8f3&title_color=c8102e&text_color=141414&icon_color=c8102e&rank_icon=percentile">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameray1&layout=compact&langs_count=6&hide_border=true&bg_color=161513&title_color=ff5a6a&text_color=f1efea">
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameray1&layout=compact&langs_count=6&hide_border=true&bg_color=faf8f3&title_color=c8102e&text_color=141414">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazankus&layout=compact&langs_count=6&hide_border=true&bg_color=161513&title_color=ff5a6a&text_color=f1efea">
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazankus&layout=compact&langs_count=6&hide_border=true&bg_color=faf8f3&title_color=c8102e&text_color=141414">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rameray1&hide_border=true&background=161513&ring=ff5a6a&fire=ff5a6a&currStreakNum=f1efea&sideNums=f1efea&currStreakLabel=ff5a6a&sideLabels=aaa69d&dates=aaa69d&stroke=36342f">
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Rameray1&hide_border=true&background=faf8f3&ring=c8102e&fire=c8102e&currStreakNum=141414&sideNums=141414&currStreakLabel=c8102e&sideLabels=57554f&dates=57554f&stroke=dcd9d2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ramazankus&hide_border=true&background=161513&ring=ff5a6a&fire=ff5a6a&currStreakNum=f1efea&sideNums=f1efea&currStreakLabel=ff5a6a&sideLabels=aaa69d&dates=aaa69d&stroke=36342f">
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=ramazankus&hide_border=true&background=faf8f3&ring=c8102e&fire=c8102e&currStreakNum=141414&sideNums=141414&currStreakLabel=c8102e&sideLabels=57554f&dates=57554f&stroke=dcd9d2">
   </picture>
 </p>
 
