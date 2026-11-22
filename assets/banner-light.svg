@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ramazan Kus — Software engineering apprentice">
+  <rect width="1200" height="300" rx="14" fill="#faf8f3"/>
+  <g font-family="Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="64" y="70" font-size="15" font-weight="700" letter-spacing="3" fill="#57554f">IMT MINES ALÈS · ASTRÉE SOFTWARE</text>
+    <text x="60" y="168" font-size="96" font-weight="800" letter-spacing="-3" fill="#141414">Ramazan Kus<tspan fill="#c8102e" dx="14">!!</tspan></text>
+    <line x1="64" y1="198" x2="760" y2="198" stroke="#dcd9d2" stroke-width="2"/>
+    <text x="64" y="234" font-size="22" font-weight="500" fill="#141414">Software engineering apprentice — business applications,</text>
+    <text x="64" y="264" font-size="22" font-weight="500" fill="#141414">from data model to production.</text>
+  </g>
+  <g transform="translate(880 40)">
+    <rect x="0" y="0" width="27" height="27" fill="#ffffff"/>
+    <rect x="27" y="0" width="27" height="27" fill="#c9c6be"/>
+    <rect x="54" y="0" width="27" height="27" fill="#ffffff"/>
+    <rect x="81" y="0" width="27" height="27" fill="#c9c6be"/>
+    <rect x="108" y="0" width="27" height="27" fill="#ffffff"/>
+    <rect x="135" y="0" width="27" height="27" fill="#c9c6be"/>
+    <rect x="162" y="0" width="27" height="27" fill="#ffffff"/>
+    <rect x="189" y="0" width="27" height="27" fill="#c9c6be"/>
+    <rect x="0" y="27" width="27" height="27" fill="#c9c6be"/>
+    <rect x="27" y="27" width="27" height="27" fill="#ffffff"/>
+    <rect x="54" y="27" width="27" height="27" fill="#c9c6be"/>
+    <rect x="81" y="27" width="27" height="27" fill="#ffffff"/>
+    <rect x="108" y="27" width="27" height="27" fill="#c9c6be"/>
+    <rect x="135" y="27" width="27" height="27" fill="#ffffff"/>
+    <rect x="162" y="27" width="27" height="27" fill="#c9c6be"/>
+    <rect x="189" y="27" width="27" height="27" fill="#ffffff"/>
+    <rect x="0" y="54" width="27" height="27" fill="#ffffff"/>
+    <rect x="27" y="54" width="27" height="27" fill="#c9c6be"/>
+    <rect x="54" y="54" width="27" height="27" fill="#ffffff"/>
+    <rect x="81" y="54" width="27" height="27" fill="#c9c6be"/>
+    <rect x="108" y="54" width="27" height="27" fill="#ffffff"/>
+    <rect x="135" y="54" width="27" height="27" fill="#c9c6be"/>
+    <rect x="162" y="54" width="27" height="27" fill="#ffffff"/>
+    <rect x="189" y="54" width="27" height="27" fill="#c9c6be"/>
+    <rect x="0" y="81" width="27" height="27" fill="#c9c6be"/>
+    <rect x="27" y="81" width="27" height="27" fill="#ffffff"/>
+    <rect x="54" y="81" width="27" height="27" fill="#c9c6be"/>
+    <rect x="81" y="81" width="27" height="27" fill="#ffffff"/>
+    <rect x="108" y="81" width="27" height="27" fill="#c9c6be"/>
+    <rect x="135" y="81" width="27" height="27" fill="#ffffff"/>
+    <rect x="162" y="81" width="27" height="27" fill="#c9c6be"/>
+    <rect x="189" y="81" width="27" height="27" fill="#ffffff"/>
+    <rect x="0" y="108" width="27" height="27" fill="#ffffff"/>
+    <rect x="27" y="108" width="27" height="27" fill="#c9c6be"/>
+    <rect x="54" y="108" width="27" height="27" fill="#ffffff"/>
+    <rect x="81" y="108" width="27" height="27" fill="#c9c6be"/>
+    <rect x="108" y="108" width="27" height="27" fill="#ffffff"/>
+    <rect x="135" y="108" width="27" height="27" fill="#c9c6be"/>
+    <rect x="162" y="108" width="27" height="27" fill="#ffffff"/>
+    <rect x="189" y="108" width="27" height="27" fill="#c9c6be"/>
+    <rect x="0" y="135" width="27" height="27" fill="#c9c6be"/>
+    <rect x="27" y="135" width="27" height="27" fill="#ffffff"/>
+    <rect x="54" y="135" width="27" height="27" fill="#c9c6be"/>
+    <rect x="81" y="135" width="27" height="27" fill="#ffffff"/>
+    <rect x="108" y="135" width="27" height="27" fill="#c9c6be"/>
+    <rect x="135" y="135" width="27" height="27" fill="#ffffff"/>
+    <rect x="162" y="135" width="27" height="27" fill="#c9c6be"/>
+    <rect x="189" y="135" width="27" height="27" fill="#ffffff"/>
+    <rect x="0" y="162" width="27" height="27" fill="#ffffff"/>
+    <rect x="27" y="162" width="27" height="27" fill="#c9c6be"/>
+    <rect x="54" y="162" width="27" height="27" fill="#ffffff"/>
+    <rect x="81" y="162" width="27" height="27" fill="#c9c6be"/>
+    <rect x="108" y="162" width="27" height="27" fill="#ffffff"/>
+    <rect x="135" y="162" width="27" height="27" fill="#c9c6be"/>
+    <rect x="162" y="162" width="27" height="27" fill="#ffffff"/>
+    <rect x="189" y="162" width="27" height="27" fill="#c9c6be"/>
+    <rect x="0" y="189" width="27" height="27" fill="#c9c6be"/>
+    <rect x="27" y="189" width="27" height="27" fill="#ffffff"/>
+    <rect x="54" y="189" width="27" height="27" fill="#c9c6be"/>
+    <rect x="81" y="189" width="27" height="27" fill="#ffffff"/>
+    <rect x="108" y="189" width="27" height="27" fill="#c9c6be"/>
+    <rect x="135" y="189" width="27" height="27" fill="#ffffff"/>
+    <rect x="162" y="189" width="27" height="27" fill="#c9c6be"/>
+    <rect x="189" y="189" width="27" height="27" fill="#ffffff"/>
+    <rect x="0" y="0" width="216" height="216" fill="none" stroke="#141414" stroke-width="2"/>
+    <rect x="108" y="162" width="27" height="27" fill="#c8102e" fill-opacity="0.35"/>
+    <rect x="108" y="108" width="27" height="27" fill="#c8102e" fill-opacity="0.55"/>
+    <path d="M121.5 175.5 L121.5 136" stroke="#c8102e" stroke-width="5" stroke-linecap="round"/>
+    <path d="M110 140 L121.5 122 L133 140 Z" fill="#c8102e"/>
+    <text x="108" y="246" font-family="'Courier New', monospace" font-size="16" fill="#57554f" text-anchor="middle">1. e4!!</text>
+  </g>
+</svg>
