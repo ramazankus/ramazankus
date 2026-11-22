@@ -31,8 +31,8 @@ Every skill below is backed by a project or a job on [ramazankus.dev/en/skills](
 | --- | --- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=angular,ts,js,astro,html,css&perline=12" height="40" alt="Angular, TypeScript, JavaScript, Astro, HTML, CSS"> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,prisma,php&perline=12" height="40" alt="Java, Spring, Node.js, Express, Prisma, PHP"> |
-| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=12" height="40" alt="PostgreSQL, MySQL"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" height="28" alt="MariaDB"> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,gitlab,docker,cypress&perline=12" height="40" alt="Git, GitLab, Docker, Cypress"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="28" alt="Jira"> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" height="28" alt="Claude Code"> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=12" height="40" alt="PostgreSQL, MySQL"> <img src="icons/mariadb.svg" height="40" alt="MariaDB"> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,gitlab,docker,cypress&perline=12" height="40" alt="Git, GitLab, Docker, Cypress"> <img src="icons/jira.svg" height="40" alt="Jira"> <img src="icons/claude.svg" height="40" alt="Claude Code"> |
 
 
 ## GitHub stats
