@@ -5,7 +5,7 @@
     <text x="64" y="70" font-size="15" font-weight="700" letter-spacing="3" fill="#aaa69d">IMT MINES ALÈS · ASTRÉE SOFTWARE</text>
     <text x="60" y="168" font-size="96" font-weight="800" letter-spacing="-3" fill="#f1efea">Ramazan Kus<tspan fill="#ff5a6a" dx="14">!!</tspan></text>
     <line x1="64" y1="198" x2="760" y2="198" stroke="#36342f" stroke-width="2"/>
-    <text x="64" y="234" font-size="22" font-weight="500" fill="#f1efea">Software engineering apprentice — business applications,</text>
+    <text x="64" y="234" font-size="22" font-weight="500" fill="#f1efea">Software engineering apprentice — full-stack web applications,</text>
     <text x="64" y="264" font-size="22" font-weight="500" fill="#f1efea">from data model to production.</text>
   </g>
   <g transform="translate(880 30)">
