@@ -1,7 +1,7 @@
 <a href="https://ramazankus.dev/en">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v3.svg">
-    <img alt="Ramazan Kus — Software engineering apprentice, building full-stack web applications from data model to production." src="assets/banner-light-v3.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v4.svg">
+    <img alt="Ramazan Kus — Software engineering apprentice, building full-stack web applications from data model to production." src="assets/banner-light-v4.svg" width="100%">
   </picture>
 </a>
 

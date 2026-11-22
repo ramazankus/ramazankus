@@ -3,7 +3,7 @@
   <rect width="1200" height="300" rx="14" fill="#faf8f3"/>
   <g font-family="Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif">
     <text x="64" y="70" font-size="15" font-weight="700" letter-spacing="3" fill="#57554f">IMT MINES ALÈS · ASTRÉE SOFTWARE</text>
-    <text x="60" y="168" font-size="96" font-weight="800" letter-spacing="-3" fill="#141414">Ramazan Kus<tspan fill="#c8102e" dx="14">!!</tspan></text>
+    <text x="60" y="168" font-size="96" font-weight="800" letter-spacing="-3" fill="#141414">Ramazan Kus<tspan fill="#0077b6" dx="14">!!</tspan></text>
     <line x1="64" y1="198" x2="760" y2="198" stroke="#dcd9d2" stroke-width="2"/>
     <text x="64" y="234" font-size="22" font-weight="500" fill="#141414">Software engineering apprentice — full-stack web applications,</text>
     <text x="64" y="264" font-size="22" font-weight="500" fill="#141414">from data model to production.</text>
@@ -106,6 +106,6 @@
   <path d="M121.5 202.5 L121.5 60" stroke="#c8102e" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
   <path d="M110.5 62 L121.5 46 L132.5 62 Z" fill="#c8102e" opacity="0.85"/>
   <rect x="0" y="0" width="216" height="216" fill="none" stroke="#141414" stroke-width="2"/>
-  <text x="108" y="242" font-family="'Courier New', monospace" font-size="16" fill="#57554f" text-anchor="middle">16. Rxe7+<tspan fill="#c8102e" font-weight="700">!!</tspan></text>
+  <text x="108" y="242" font-family="'Courier New', monospace" font-size="16" fill="#57554f" text-anchor="middle">16. Rxe7+<tspan fill="#0077b6" font-weight="700">!!</tspan></text>
   </g>
 </svg>
