@@ -16,7 +16,7 @@
 
 ## About
 
-- 🎓 Engineering student in Computer Science at **IMT Mines Alès** (work-study track, since 2025).
+- 🎓 Engineering student in Computer Science at **IMT Mines Alès** (work-study track, since 2024).
 - 🏭 Apprentice developer at **Astrée Software** since 2024: client-specific features in Java, Spring and Angular for an MES, the software that runs production in a factory.
 - 🧪 Before that, QA intern at the same company: test plans and end-to-end tests with Cypress.
 - 🎓 BUT in Computer Science at IUT Lyon 1 (2022 – 2025).
